@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaferFileAccess", "SaferFileAccess.csproj", "{AAD426B1-CE44-4F66-A4BE-47F672F3062A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD426B1-CE44-4F66-A4BE-47F672F3062A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD426B1-CE44-4F66-A4BE-47F672F3062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD426B1-CE44-4F66-A4BE-47F672F3062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD426B1-CE44-4F66-A4BE-47F672F3062A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9CAAC7E-BC6E-4725-862B-36618A7FD717}
+	EndGlobalSection
+EndGlobal
